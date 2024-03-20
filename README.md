@@ -14,6 +14,8 @@ The following can be found in each of the 5 separate files.
 4. Tables
 5. Models
 
+The packages needed for the project can be found at the top of each R file.
+
 Within this project, data cleaning and manipulation, visual analysis, machine learning and statistical inferences are all showcased. 
 
 Finally, the project description along with my findings are in a PDF file in this repository explaining everything including my conclusion. 
